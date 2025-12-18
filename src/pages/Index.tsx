@@ -27,8 +27,8 @@ const Index = () => {
       id: 3,
       title: 'Цветочная композиция',
       price: 'от 3 500 ₽',
-      image: 'https://cdn.poehali.dev/projects/f742e5eb-6f58-4d46-b943-e9522be3e6b0/files/d71f8886-ac38-4227-bee4-413b412c5421.jpg',
-      description: 'Нежная композиция в пастельных тонах'
+      image: 'https://cdn.poehali.dev/files/20251025_074543394_iOS.jpg',
+      description: 'Композиция из красных роз с зеленью'
     }
   ];
 
