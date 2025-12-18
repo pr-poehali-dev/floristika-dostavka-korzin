@@ -20,8 +20,8 @@ const Index = () => {
       id: 2,
       title: 'Траурная корзина',
       price: 'от 4 500 ₽',
-      image: 'https://cdn.poehali.dev/projects/f742e5eb-6f58-4d46-b943-e9522be3e6b0/files/e3b772d2-5079-4484-86d9-a83e2d82877b.jpg',
-      description: 'Композиция из красных и белых цветов'
+      image: 'https://cdn.poehali.dev/files/20251212_160305155_iOS.jpg',
+      description: 'Композиция из красных роз'
     },
     {
       id: 3,
