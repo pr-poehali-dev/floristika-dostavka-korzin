@@ -13,7 +13,7 @@ const Index = () => {
       id: 1,
       title: 'Венок из белых роз',
       price: 'от 5 000 ₽',
-      image: 'https://cdn.poehali.dev/projects/f742e5eb-6f58-4d46-b943-e9522be3e6b0/files/4393d073-8dac-4958-a0db-c51337d7b6c2.jpg',
+      image: 'https://cdn.poehali.dev/files/20251207_091903338_iOS.jpg',
       description: 'Элегантный венок из белых роз и лилий'
     },
     {
