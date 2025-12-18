@@ -116,7 +116,7 @@ const Index = () => {
             </div>
             <div className="animate-scale-in">
               <img 
-                src="https://cdn.poehali.dev/projects/f742e5eb-6f58-4d46-b943-e9522be3e6b0/files/4393d073-8dac-4958-a0db-c51337d7b6c2.jpg" 
+                src="https://cdn.poehali.dev/files/20251127_124856095_iOS.jpg" 
                 alt="Венок из живых цветов" 
                 className="rounded-2xl shadow-2xl w-full object-cover aspect-square"
               />
