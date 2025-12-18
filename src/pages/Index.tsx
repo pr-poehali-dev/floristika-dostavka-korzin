@@ -326,8 +326,8 @@ const Index = () => {
                   <Icon name="Mail" size={24} className="text-primary mt-1" />
                   <div>
                     <p className="font-semibold mb-1">Email</p>
-                    <a href="mailto:info@example.com" className="text-muted-foreground hover:text-primary">
-                      info@example.com
+                    <a href="mailto:info@rostov-buket.ru" className="text-muted-foreground hover:text-primary">
+                      info@rostov-buket.ru
                     </a>
                   </div>
                 </div>
@@ -338,7 +338,7 @@ const Index = () => {
                     <p className="font-semibold mb-1">Адрес</p>
                     <p className="text-muted-foreground">
                       г. Ростов-на-Дону,<br />
-                      ул. Примерная, д. 1
+                      ул. Тургеневская, 46/17
                     </p>
                   </div>
                 </div>
@@ -348,7 +348,7 @@ const Index = () => {
                   <div>
                     <p className="font-semibold mb-1">Время работы</p>
                     <p className="text-muted-foreground">
-                      Ежедневно, круглосуточно
+                      Ежедневно, с 8:00 до 20:00
                     </p>
                   </div>
                 </div>
