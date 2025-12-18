@@ -86,9 +86,9 @@ const Index = () => {
                 </button>
               ))}
             </div>
-            <a href="tel:+79001234567" className="flex items-center gap-2 text-primary font-semibold">
+            <a href="tel:+78632791310" className="flex items-center gap-2 text-primary font-semibold">
               <Icon name="Phone" size={20} />
-              <span className="hidden sm:inline">+7 (900) 123-45-67</span>
+              <span className="hidden sm:inline">+7 (863) 279-13-10</span>
             </a>
           </div>
         </div>
@@ -316,8 +316,8 @@ const Index = () => {
                   <Icon name="Phone" size={24} className="text-primary mt-1" />
                   <div>
                     <p className="font-semibold mb-1">Телефон</p>
-                    <a href="tel:+79001234567" className="text-muted-foreground hover:text-primary">
-                      +7 (900) 123-45-67
+                    <a href="tel:+78632791310" className="text-muted-foreground hover:text-primary">
+                      +7 (863) 279-13-10
                     </a>
                   </div>
                 </div>
